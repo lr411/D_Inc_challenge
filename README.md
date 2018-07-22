@@ -1,2 +1,2 @@
 # D_Inc_challenge
-Docs for Q3
+Graphs of the project proposal
